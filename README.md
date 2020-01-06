@@ -11,4 +11,4 @@ If the dependencies are met, then run
 python3 main.py 
 ```
 
-from the root folder in the repo.
+from the root folder in the repo. The script will output a pred.csv file containing the price predictions.
