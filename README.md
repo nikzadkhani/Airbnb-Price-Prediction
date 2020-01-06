@@ -7,7 +7,8 @@ To create the price predictions for the csv, you need numpy, pandas and Python3.
 
 If the dependencies are met, then run 
 
+```bash
 python3 main.py 
-
+```
 
 from the root folder in the repo.
